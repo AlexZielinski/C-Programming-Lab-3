@@ -66,7 +66,6 @@ void squeeze_spaces(void)
 		}
 		last = c;
 	}
-	
 }
 
 /* ./a < input.txt print to stdout/cmd/cygwin */
