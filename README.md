@@ -6,7 +6,9 @@ C programming lab 3 for COMP 2510
 
 int c;
 while((c = getchar()) != EOF)
+{
     putchar(c);
+}
 
 ----------------------------------------------------------------------------------------
 Function 1: 
